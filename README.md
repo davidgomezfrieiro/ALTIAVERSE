@@ -2,10 +2,10 @@
 
 ![logo altaverse](https://davidgomezfrieiro.github.io/Logo-Altiaverse.png)
 
--- Hola! Te sugiero que siempre escribas un README.md explicando un poco el proyecto
+Altiaverse is a work-in-progress project made by a fullstack developer student. The goal is to simulate the web page of a 'metaverse'.
+
+--Made with HTML and CSS--
 
 ## Live Project
 
-Además, ofrece un enlace a tus visitantes para que puedan acceder a tu version **live** de GitHub pages poniendo el enlace al proyecto.
-
-[AltiaVerse - a network of Virtual Worlds](https://github.com/davidgomezfrieiro/ALTIAVERSE)
+[AltiaVerse - a network of Virtual Worlds](https://davidgomezfrieiro.github.io/)
