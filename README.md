@@ -1,4 +1,4 @@
-# El AltiaVerso
+# ALTIAVERSE
 
 ![logo altaverse](https://davidgomezfrieiro.github.io/Logo-Altiaverse.png)
 
